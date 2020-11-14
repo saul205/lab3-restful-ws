@@ -21,14 +21,14 @@ public class Server {
     AddressBook ab = new AddressBook();
 
     // Some dummy data
-    Person salvador = new Person();
+    /*Person salvador = new Person();
     salvador.setName("Salvador");
     salvador.setId(ab.nextId());
     Person juan = new Person();
     juan.setName("Juan");
     juan.setId(ab.nextId());
     ab.getPersonList().add(salvador);
-    ab.getPersonList().add(juan);
+    ab.getPersonList().add(juan);*/
 
     URI uri = UriBuilder.fromUri("http://localhost/").port(8080).build();
     HttpServer server = GrizzlyHttpServerFactory.createHttpServer(uri,

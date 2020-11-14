@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/UNIZAR-30246-WebEngineering/lab3-restful-ws.svg?branch=master)](https://travis-ci.com/UNIZAR-30246-WebEngineering/lab3-restful-ws)
+[![Build Status](https://travis-ci.com/saul205/lab3-restful-ws.svg?branch=test)](https://travis-ci.com/saul205/lab3-restful-ws)
 # Web Engineering 2020-2021 / RESTful Web services
 **In this assignment your PR must only modify the `README.md` file**.
 Please, go to the [Wiki](https://github.com/UNIZAR-30246-WebEngineering/lab3-restful-ws/wiki) in order to get the instructions for this assignment.
